@@ -22,8 +22,8 @@ title: glen3b - Software and Security
 email: ghusman@glen3b.me
 description: >- # this means to ignore newlines until "baseurl:"
   @glen3b's personal website.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://glen3b.me" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: glenhusman
 github_username:  glen3b
 
