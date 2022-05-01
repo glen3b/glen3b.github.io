@@ -6,8 +6,4 @@ categories: update
 ---
 First post on my [Jekyll][jekyll-docs] site.
 
-{% highlight csharp %}
-Console.WriteLine("Hello World!")
-{% endhighlight %}
-
 [jekyll-docs]: https://jekyllrb.com/docs/home
